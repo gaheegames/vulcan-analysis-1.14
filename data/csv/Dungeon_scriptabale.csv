@@ -1,0 +1,6 @@
+﻿asset,file,type,number,m_name,reward,Icon,O_Item,cost,type__label
+Gold_2,0b50bb93c6997492da3b197212cbe884,0,2,골드 던전 2단계,"1,500,000 골드","{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}","{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}",1,Gold
+Gold_3,c13fc6478061a4d0692f9062e7e07cae,0,3,골드 던전 3단계,"5,000,000 골드","{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}","{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}",3,Gold
+Gold_1,a5f85ed6c0ce84238a2d860cd819959e,0,1,골드 던전 1단계,"500,000 골드","{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}","{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}",1,Gold
+Gold_4,a337c0d898bed44a09501225e408d9be,0,4,골드 던전 4단계,"10,000,000 골드","{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}","{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}",4,Gold
+Gold_5,5cf592e05ef56498f9d1731737b20712,0,5,골드 던전 5단계,"15,000,000 골드","{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}","{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}",5,Gold

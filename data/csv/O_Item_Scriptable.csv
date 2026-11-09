@@ -1,0 +1,14 @@
+﻿asset,file,Item_Name,Item_Number,Count,rarity,type,itemSprite,Item_Chance,rarity__label,type__label
+골드 던전 입장권,9551452b2940a496da002082da789731,골드 던전 입장권,6,1,0,3,"{""ref"": ""골드 던전 입장권"", ""type"": ""Sprite"", ""img"": ""sprites/골드 던전 입장권.png""}",0.0003,C,O
+재료 열쇠,c995805c424ef4440972293212c41e0d,재료 열쇠,1,0,0,3,"{""ref"": ""재료 열쇠"", ""type"": ""Sprite"", ""img"": ""sprites/재료 열쇠.png""}",0.16,C,O
+기록서,c5be70cd5fc754f2f929b8405dfa9349,기록서,11,1,0,3,"{""ref"": ""기록서"", ""type"": ""Sprite"", ""img"": ""sprites/기록서.png""}",0,C,O
+전설 망치,653a44ad4d4f8bd4684077b1ee6d4eb5,전설 망치,3,0,0,3,"{""ref"": ""전설 망치"", ""type"": ""Sprite"", ""img"": ""sprites/전설 망치.png""}",0.003,C,O
+나무묶음,4d8c070b91a7348fa882118de47f8306,나무묶음,9,1,0,3,"{""ref"": ""나무묶음"", ""type"": ""Sprite"", ""img"": ""sprites/나무묶음.png""}",0.16,C,O
+주사위,a426aeeb810d542cc9e8a1bedacd5c40,주사위,7,1,0,3,"{""ref"": ""주사위"", ""type"": ""Sprite"", ""img"": ""sprites/주사위.png""}",0.12,C,O
+망치,17588128050a887408fa8a0f791086d1,망치,18,1,1,1,"{""ref"": ""망치"", ""type"": ""Sprite"", ""img"": ""sprites/망치__2.png""}",40,R,M
+대장장이의 눈물,cb1d37a08d8534e6aab9a47b4620b441,대장장이의 눈물,12,1,0,3,"{""ref"": ""대장장이의 눈물"", ""type"": ""Sprite"", ""img"": ""sprites/대장장이의 눈물.png""}",0,C,O
+영웅 소환서,d2d916c304370414b96cc3fea05f58a3,영웅 소환서,0,0,0,3,"{""ref"": ""영웅 소환서"", ""type"": ""Sprite"", ""img"": ""sprites/영웅 소환서.png""}",0.1,C,O
+곡식,043f10da52bdf491c8f743adf6aae74b,곡식,8,1,0,3,"{""ref"": ""곡식"", ""type"": ""Sprite"", ""img"": ""sprites/곡식.png""}",0.16,C,O
+투기장 입장권,6e577753ec3f85045a6c1a59a859c525,투기장 입장권,4,0,0,3,"{""ref"": ""투기장 입장권"", ""type"": ""Sprite"", ""img"": ""sprites/투기장 입장권.png""}",0.1,C,O
+즉시완성,e3f89879254da439f880fa984d92aaf3,즉시완성,5,0,0,3,"{""ref"": ""즉시완성"", ""type"": ""Sprite"", ""img"": ""sprites/즉시완성.png""}",0.0003,C,O
+골드,b603730182b2145b8b9651f8ba106066,골드,13,1,0,3,"{""ref"": ""Blacksmith_58_goldcoin"", ""type"": ""Sprite"", ""img"": ""sprites/Blacksmith_58_goldcoin__3.png""}",0,C,O

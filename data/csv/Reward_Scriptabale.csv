@@ -1,0 +1,7 @@
+﻿asset,file,name,Count,Item
+망치,e77b9ea192b614b1dabb95606cd4ab0b,망치,3,"{""ref"": ""망치"", ""type"": ""MonoBehaviour""}"
+투기장,ae3fa1c13487548839838c2a023da51b,투기장,1,"{""ref"": ""투기장 입장권"", ""type"": ""MonoBehaviour""}"
+골드,accbd57bed8fe474082de77c60bdb8d4,골드,500000,
+열쇠,eba9f7225325b4e39be3f9227355aece,열쇠,3,"{""ref"": ""재료 열쇠"", ""type"": ""MonoBehaviour""}"
+영웅 소환서,b293b27a56010416793245d756658070,영웅 소환서,3,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}"
+골드 던전 입장권,90965133f084b4830906c88dd259b6c1,골드 던전 입장권,1,"{""ref"": ""골드 던전 입장권"", ""type"": ""MonoBehaviour""}"

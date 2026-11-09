@@ -1,0 +1,10 @@
+﻿asset,file,number,Item,rewardType,Gold_reward,Item_Count,Item_reward,O_Itme_reward,Title,rewardType__label
+3,27046a1b9130c43dc9e5521d51201565,3,"{""ref"": ""강철 투구"", ""type"": ""MonoBehaviour""}",0,0,350,"{""ref"": ""해골"", ""type"": ""MonoBehaviour""}",,강철 투구 제작하기 ,itme
+2,fc751a7b2b5b942a88da5d258fe2805e,2,"{""ref"": ""강철 방패"", ""type"": ""MonoBehaviour""}",0,0,100,"{""ref"": ""하급 제작서"", ""type"": ""MonoBehaviour""}",,강철 방패 제작하기 ,itme
+9,8bb120e115e264374a837159021ce1de,9,"{""ref"": ""해골 고서"", ""type"": ""MonoBehaviour""}",1,0,200,,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}",해골 고서 제작하기 ,o_itme
+6,d11eead4e8702428bb539840a9b2bab5,6,"{""ref"": ""강철 신발"", ""type"": ""MonoBehaviour""}",0,0,1000,"{""ref"": ""뼈"", ""type"": ""MonoBehaviour""}",,강철 신발 제작하기 ,itme
+4,02574a161b88a4a9d8f68e379dedb6aa,4,"{""ref"": ""강철 상의"", ""type"": ""MonoBehaviour""}",0,0,350,"{""ref"": ""해골"", ""type"": ""MonoBehaviour""}",,강철 상의 제작하기 ,itme
+7,ce3a016b5d10c48adb9acf6370e155d3,7,"{""ref"": ""금 반지"", ""type"": ""MonoBehaviour""}",2,25000000,0,,,금 반지 제작하기 ,gold
+5,7111e8cd2f5c0425fb8793a6fadc3293,5,"{""ref"": ""강철 하의"", ""type"": ""MonoBehaviour""}",0,0,1000,"{""ref"": ""가죽"", ""type"": ""MonoBehaviour""}",,강철 하의 제작하기 ,itme
+1,3e1e4d25ab9a24d82971cdada49a1372,1,"{""ref"": ""해골 지팡이"", ""type"": ""MonoBehaviour""}",0,0,20,"{""ref"": ""모루"", ""type"": ""MonoBehaviour""}",,"몬스터 ""켈톤""에서 해골 모아서 해골 지팡이 제작하기 ",itme
+8,7077482c070ce4295b2987047669ddef,8,"{""ref"": ""금 목걸이"", ""type"": ""MonoBehaviour""}",0,0,20,"{""ref"": ""고급 제작서"", ""type"": ""MonoBehaviour""}",,금 목걸이 제작하기 ,itme

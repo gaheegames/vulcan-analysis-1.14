@@ -1,0 +1,13 @@
+﻿asset,file,type,m_Item,o_Item,Costume,Count,Cost,type__label
+모루,3a0f7eef07f7d4bfc8466b95e776256c,1,"{""ref"": ""모루"", ""type"": ""MonoBehaviour""}",,,20,50,M
+주사위,ac59e116fc998454baabe4472ca0b5fd,3,,"{""ref"": ""주사위"", ""type"": ""MonoBehaviour""}",,20,100,O
+영웅 소환서,88fa26d97a1c94e0e918ad3ce7803bc8,3,,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}",,80,100,O
+고급 제작서,c6babc4e9628e4a1b8142042b8ffd857,1,"{""ref"": ""고급 제작서"", ""type"": ""MonoBehaviour""}",,,20,50,M
+라바 스톤,7d7bbc2ea94894278a7b5e71189cec15,1,"{""ref"": ""라바 스톤"", ""type"": ""MonoBehaviour""}",,,3,80,M
+서광 섬유,44e24b16c79fc4c868039ee2b3552884,1,"{""ref"": ""서광 섬유"", ""type"": ""MonoBehaviour""}",,,20,50,M
+시련의 증표,a9341afb2d28f433d9c4f812fecd90c5,1,"{""ref"": ""시련의 증표"", ""type"": ""MonoBehaviour""}",,,5,1000,M
+망치,ee15f7bcb6d6042068616dc8e221f158,3,,"{""ref"": ""망치"", ""type"": ""MonoBehaviour""}",,20,100,O
+시련의 알피아,a7466f08175dd499a8351806322aa5e2,4,,,"{""ref"": ""시련의 알피아"", ""type"": ""MonoBehaviour""}",1,6000,C
+최상급 스틱,2dbff8d2d6e3146e5891cf1b01d1463e,1,"{""ref"": ""최상급 스틱"", ""type"": ""MonoBehaviour""}",,,20,50,M
+즉시 완성,14c4132ec2ff8418a925d01191390899,3,,"{""ref"": ""즉시완성"", ""type"": ""MonoBehaviour""}",,20,100,O
+전설 망치,ea2843ab2d81845d187c0d068d995979,3,,"{""ref"": ""전설 망치"", ""type"": ""MonoBehaviour""}",,20,300,O

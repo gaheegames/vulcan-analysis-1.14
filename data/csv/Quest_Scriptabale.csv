@@ -1,0 +1,9 @@
+﻿asset,file,number,quest_Type,rewardType,C_count,Gold_reward,Item_reward,O_Itme_reward,Title,DES,quest_Type__label,rewardType__label
+6,b4e318e1887124d088283e1303bb6308,6,4,3,1,0,[],[],재료 소환,하단 소환 버튼 터치 - 재료 소환 20개 ,Item,Character
+4,aa711fbe79df1450a94bc346f28aea74,4,5,1,1,0,[],"[{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}]",장비 강화,장착된 장비 터치 - 강화,Item_Upgrade,o_itme
+1,44dc8baf4e3094f3186dffdecf76d21e,1,0,0,20,0,"[{""ref"": ""나무조각"", ""type"": ""MonoBehaviour""}, {""ref"": ""가죽"", ""type"": ""MonoBehaviour""}]",[],몬스터 사냥,카카를 사냥하세요.,Monster,itme
+7,e3eda5d089b64438dbc3e2f6b9b3cdcd,7,2,2,2,20000000,[],[],영웅 합성,하단 영웅 버튼 터치 - 각 영웅 이미지 상단의 합성 터치,Hero_Upgrade,gold
+5,55455424db7d648c2a2a4bc83ae9e619,5,1,1,1,0,[],"[{""ref"": ""재료 열쇠"", ""type"": ""MonoBehaviour""}]",영웅 소환,하단 소환 버튼 터치 - 영웅 소환 조각 20개,Hero,o_itme
+2,00c7d328107d044b6906b17be37b8086,2,6,2,1,30000000,[],[],장비 제작,하단 모루 버튼 터치 - 방패 이미지 터치 - 나무방패 제작,Create,gold
+3,aef45d96af9df417e824a80752ca8667,3,3,2,1,50000,[],[],장비 장착,하단 영웅 버튼 터치 - 장비 터치 - 장비 터치 후 장착,Equip,gold
+8,f0eba3ac02e7a459ca013eca18b558f0,8,7,2,1,50000,[],[],투기장,하단 영웅 버튼 터치 - 하단 진영선택 후 저장,PVP,gold

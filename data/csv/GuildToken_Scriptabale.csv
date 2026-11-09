@@ -1,0 +1,12 @@
+﻿asset,file,name,type,item,W_item,O_Itme,Count,Cost,type__label
+재료열쇠,da29842b7e39e43e3904d186fc953b49,재료열쇠,3,,,"{""ref"": ""재료 열쇠"", ""type"": ""MonoBehaviour""}",40,200,O
+라바5,e2bde194985f744eb932d89d28374049,라바5,1,"{""ref"": ""라바 스톤"", ""type"": ""MonoBehaviour""}",,,5,2000,M
+영웅소환서,296d3204e44ac4a88ada42212ef4ed21,영웅소환서,3,,,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}",20,200,O
+주사위300,84b33d0a5ccd34658b1e4f65e6e17948,주사위300,3,,,"{""ref"": ""주사위"", ""type"": ""MonoBehaviour""}",300,5000,O
+대장장이의눈물20,531a0cd064b724b5388343b284ce36f2,대장장이의눈물20,3,,,"{""ref"": ""대장장이의 눈물"", ""type"": ""MonoBehaviour""}",20,3500,O
+망치,74a4f32f8200e44cbb5bea985b5b21df,망치,3,,,"{""ref"": ""망치"", ""type"": ""MonoBehaviour""}",20,200,O
+라바1,fe28e6834b84748efacee95a200c46da,라바1,1,"{""ref"": ""라바 스톤"", ""type"": ""MonoBehaviour""}",,,1,400,M
+주사위,2ba634d06c82c438dadc62b4d5805c2f,주사위,3,,,"{""ref"": ""주사위"", ""type"": ""MonoBehaviour""}",10,200,O
+전설망치,c567be2d397d143ff9445aa850755589,전설망치,3,,,"{""ref"": ""전설 망치"", ""type"": ""MonoBehaviour""}",20,600,O
+나무묶음,767356fa9b53742a3a6a01e48ce65a32,나무묶음,3,,,"{""ref"": ""나무묶음"", ""type"": ""MonoBehaviour""}",20,200,O
+곡식,4f848556e3283482a9d68e87e257c2a8,곡식,3,,,"{""ref"": ""곡식"", ""type"": ""MonoBehaviour""}",20,200,O

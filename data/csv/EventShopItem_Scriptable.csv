@@ -1,0 +1,18 @@
+﻿asset,file,type,m_Item,o_Item,Costum,Count,Cost,type__label
+전설 망치,d5b4e3a2fc7764f0faa7436f2f853861,3,,"{""ref"": ""전설 망치"", ""type"": ""MonoBehaviour""}",,10,8,O
+모루,f7e62bd6956e24fb9b2907afaf11de32,1,"{""ref"": ""모루"", ""type"": ""MonoBehaviour""}",,,10,3,M
+즉시 완성,0508cd000516a402181c4ec8c7dbee70,3,,"{""ref"": ""즉시완성"", ""type"": ""MonoBehaviour""}",,40,15,O
+최상급 스틱,62e4e8c3405fb45f688f8a4a8ed4628d,1,"{""ref"": ""최상급 스틱"", ""type"": ""MonoBehaviour""}",,,10,3,M
+재료 열쇠,1215b1ab7ccf448eab082262eb9f448c,3,,"{""ref"": ""재료 열쇠"", ""type"": ""MonoBehaviour""}",,50,5,O
+고급 제작서,a3fa2a7b560234bbbb5285d8e9f4507e,1,"{""ref"": ""고급 제작서"", ""type"": ""MonoBehaviour""}",,,10,3,M
+마법서,4e39bde937efa4bff9eca1fe52f3675d,1,"{""ref"": ""마법서"", ""type"": ""MonoBehaviour""}",,,5,8,M
+라바스톤,7fa55647edc6d4299bb5bee68639f2ee,1,"{""ref"": ""라바 스톤"", ""type"": ""MonoBehaviour""}",,,5,10,M
+주사위,192b6c54d2186450d84b9e747c0a5a85,3,,"{""ref"": ""주사위"", ""type"": ""MonoBehaviour""}",,50,10,O
+대장장이의 눈물,73451bd9f1507440bb6d50855654a533,3,,"{""ref"": ""대장장이의 눈물"", ""type"": ""MonoBehaviour""}",,10,10,O
+서광 섬유,3b30a526727d449ba90fe381aa1283fc,1,"{""ref"": ""서광 섬유"", ""type"": ""MonoBehaviour""}",,,10,3,M
+영웅 소환서,910e962620ecc42eea7a5e617265bc3d,3,,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}",,50,8,O
+망치,5b88b3c8532974c248ebe958ae70f88e,3,,"{""ref"": ""망치"", ""type"": ""MonoBehaviour""}",,30,8,O
+용접기,24b1f5561d7624b52accc952f9bb64d3,1,"{""ref"": ""용접기"", ""type"": ""MonoBehaviour""}",,,5,15,M
+기록서,97ac054f824064b14b73596379ad4683,3,,"{""ref"": ""기록서"", ""type"": ""MonoBehaviour""}",,2,20,O
+최상급 마법서,06bfab192ce8a4aad95efcdd89ad9e03,1,"{""ref"": ""최상급 마법서"", ""type"": ""MonoBehaviour""}",,,5,60,M
+성수,91819e4b5b9f24ac9816ce5b19b6b26e,1,"{""ref"": ""성수"", ""type"": ""MonoBehaviour""}",,,5,60,M

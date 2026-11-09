@@ -1,0 +1,10 @@
+﻿asset,file,name,Count,Gold,Item,Item_
+전설 망치,8c2af855c9efb4bd4a54921abf288ead,전설 망치,10,40000000,"{""ref"": ""전설 망치"", ""type"": ""MonoBehaviour""}",
+망치,e34a5d4ced8da4e818992cee08ed30fe,망치,10,15000000,"{""ref"": ""망치"", ""type"": ""MonoBehaviour""}",
+고급 제작서,e7bd181ad528d495288d490591583c92,고급 제작서,20,20000000,,"{""ref"": ""고급 제작서"", ""type"": ""MonoBehaviour""}"
+서광 섬유,1f1aecb8703944c24803b582f7a003f9,서광 섬유,20,20000000,,"{""ref"": ""서광 섬유"", ""type"": ""MonoBehaviour""}"
+영웅 소환서,b9793bb29c65942f9b4b5aa36b9487db,영웅 소환서,10,15000000,"{""ref"": ""영웅 소환서"", ""type"": ""MonoBehaviour""}",
+최상급 스틱,f43da0066494a42f7b711f8e60408eab,최상급 스틱,20,20000000,,"{""ref"": ""최상급 스틱"", ""type"": ""MonoBehaviour""}"
+재료 열쇠,bcabd5d7d9b2e4ec2bd7870e12a433ba,재료 열쇠,10,15000000,"{""ref"": ""재료 열쇠"", ""type"": ""MonoBehaviour""}",
+모루,7dd4a1147255d44f9bb38fb18adcaad3,모루,20,20000000,,"{""ref"": ""모루"", ""type"": ""MonoBehaviour""}"
+투기장 입장권,a9c58265708094e4e8fa487522c4bf14,투기장 입장권,1,5000000,"{""ref"": ""투기장 입장권"", ""type"": ""MonoBehaviour""}",
